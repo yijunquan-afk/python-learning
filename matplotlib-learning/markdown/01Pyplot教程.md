@@ -42,9 +42,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_7_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_7_0.png)
+​    
 
 
 ### 基本用法
@@ -78,9 +78,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_10_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_10_0.png)
+​    
 
 
 ### 字符参数
@@ -128,9 +128,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_13_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_13_0.png)
+​    
 
 
 
@@ -150,9 +150,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_16_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_16_0.png)
+​    
 
 
 ### 传入Numpy数组
@@ -173,9 +173,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_19_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_19_0.png)
+​    
 
 
 ### 线条属性
@@ -193,9 +193,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_22_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_22_0.png)
+​    
 
 
 ### 使用plt.plot() 的返回值来设置线条属性
@@ -224,9 +224,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_24_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_24_0.png)
+​    
 
 
 ### plt.setp() 修改线条性质
@@ -244,9 +244,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_27_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_27_0.png)
+​    
 
 
 可以设置的属性有很多，可以使用 plt.setp(lines) 查看 lines 可以设置的属性，各属性的含义可参考 matplotlib 的文档。
@@ -298,7 +298,7 @@ plt.setp(lines)
       xdata: 1D array
       ydata: 1D array
       zorder: float
-    
+
 
 ## 子图
 
@@ -334,9 +334,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_32_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_32_0.png)
+​    
 
 
 ## 图形上加上文字
@@ -361,9 +361,9 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_35_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_35_0.png)
+​    
 
 
 对于这幅图形，我们使用 `xlabel` ，`ylabel`，`title`，`text` 方法设置了文字，其中：
@@ -397,7 +397,7 @@ plt.show()
 ```
 
 
-    
-![png](01Pyplot%E6%95%99%E7%A8%8B_files/01Pyplot%E6%95%99%E7%A8%8B_37_0.png)
-    
+​    
+![png](https://note-image-1307786938.cos.ap-beijing.myqcloud.com/typora/01Pyplot%E6%95%99%E7%A8%8B_37_0.png)
+​    
 
